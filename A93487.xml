@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some consideration about the nature of an oath more particularly relating to our nationall covenant. Seriously propounded to all who truely feare God, and desire so to walkd with him, that they may enjoy peace of conscience. Wherein this quærie is handled: whether the said nationall covenant hath those requisites in it, which according to Gods word ought to be in every oath. The consideration whereof is in this juncture of time the more seasonable, for the said covenant is on the one hand too much adored by some, and on the other hand by others esteemed scarce oblieging, even them who have sworn it. Imprimatur Theodore Jennings Septem. 17. 1649.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93487</idno>
+            <idno type="STC">Wing S4480</idno>
+            <idno type="STC">Thomason E575_11</idno>
+            <idno type="STC">ESTC R206328</idno>
+            <idno type="EEBO-CITATION">99865500</idno>
+            <idno type="PROQUEST">99865500</idno>
+            <idno type="VID">117745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117745)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E575[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some consideration about the nature of an oath more particularly relating to our nationall covenant. Seriously propounded to all who truely feare God, and desire so to walkd with him, that they may enjoy peace of conscience. Wherein this quærie is handled: whether the said nationall covenant hath those requisites in it, which according to Gods word ought to be in every oath. The consideration whereof is in this juncture of time the more seasonable, for the said covenant is on the one hand too much adored by some, and on the other hand by others esteemed scarce oblieging, even them who have sworn it. Imprimatur Theodore Jennings Septem. 17. 1649.</title>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson in Smithfield near the Queens head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ocotb. 4. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Oct: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117745:1" rendition="simple:additions"/>
+            <p>SOME CONSIDERATIONS about the Nature of an Oath More particularly relating to Our <hi>Nationall Covenant.</hi>
+            </p>
+            <p>Seriouſly propounded to all who truely feare God, and deſire ſo to walk with him, that they may enjoy Peace of Conſcience.</p>
+            <p>Wherein this QUAERIE is Handled: <hi>Whether the ſaid</hi> Nationall Covenant <hi>hath thoſe Requiſites in it, which according to Gods Word ought to be in every</hi> OATH.</p>
+            <p>The Conſideration whereof Is in this juncture of time the more ſeaſonable, for that the ſaid <hi>Covenant</hi> is on the one hand too much adored by ſome, and on the other hand by others eſteemed ſcarce oblieging, even them who have Sworn it.</p>
+            <p>
+               <hi>Qui facilè jurat, facilè perjurat.</hi>
+            </p>
+            <p>Imprimatur Theodore Jennings Septem. 17. 1649.</p>
+            <p>London Printed for Robert Ibbitſon in Smithfield near the Queens head Tavern, Octob. 4. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117745:2"/>
+            <pb n="1" facs="tcp:117745:2"/>
+            <head>Obſervations upon our Nationall COVENANT.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving with much ſorrow beheld how the diviſions and troubles of this torne and diſ-joynted King<g ref="char:EOLhyphen"/>dome, have been continued even when we had good hopes that they were drawing to a period: Look<g ref="char:EOLhyphen"/>ing into the <hi>cauſe,</hi> this hath been obſerved to be none of the leaſt, that all parties have laboured to uphold their owne Intereſts, by endeavouring to weave in Religion and Conſcience, with a deſigne which they were driving on.</p>
+            <p>This practiſe appeares no where more then in the uſe that is made of the <hi>Nationall Covenant,</hi> which being a long Oath, and abounding with ambiguous expreſſions, may, by any party in the Kingdom be ea<g ref="char:EOLhyphen"/>ſily conſtrued to countenance their undertakings.</p>
+            <p>The obſervation hereof hath invited a ſearch into this queſtion, Whether this <hi>Nationall Covenant</hi> be agreeing for matter with thoſe Co<g ref="char:EOLhyphen"/>venants which we read of in Scripture? or whether it have thoſe quali<g ref="char:EOLhyphen"/>fications which according to Gods word ought to be in every Oath?</p>
+            <p>The <hi>Covenants</hi> which we read of in Scripture made by <hi>Aſa, Ne<g ref="char:EOLhyphen"/>hemia</hi> and others, were wholly or moſtly for ſeeking God, for hum<g ref="char:EOLhyphen"/>bling their ſoules under the ſenſe of ſinne, and for a reformation of their lives. But look upon our Covenant and (except a little at the latter end) it is ſtuffed with matter of <hi>Polity! Government! Rights! Priviledges! Liberties!</hi> and a many other matters, ſavouring more of earth then heaven, and more likely to perplex the conſcience with doubts, then to ſtrengthen and further a pious ſoule that ſeekes it's owne <hi>cleanſing</hi> and <hi>reformation,</hi> and to cloſe with the Lord Chriſt for ſtrength and aſſiſtance hereunto.</p>
+            <p>Hence it commeth to paſſe (as was before ſaid,) that all <hi>Parties</hi> have laboured to countenance their <hi>actions</hi> with this cloake, <hi>Their Covenant.</hi> In the late invaſion of the <hi>Scots</hi> under Duke <hi>Hamilton,</hi>
+               <pb n="2" facs="tcp:117745:3"/>what brought them in, but <hi>Their Covenant?</hi> As you may ſee by their <hi>Declaration.</hi> The riſings in ſeverall parts of this Kingdome this laſt Summer 1648. It was (as they ſaid) to purſue the ends of <hi>their Covenant,</hi> And how many that have ſtood out againſt the Parliament, have <hi>done it</hi> (as they ſaid) in purſuance of <hi>their Covenant.</hi>
+            </p>
+            <p>Let us therefore look into Gods word, and ſee what qualificati<g ref="char:EOLhyphen"/>ons, we find there required in every Oath that is pleaſing to God: Let us conſider what the godly and learned have written on this ſub<g ref="char:EOLhyphen"/>ject, and then (without any pretending to a new light) we ſhall eaſily diſcover how peccant this <hi>long Oath</hi> is, againſt all <hi>Rules</hi> laid down by all Proteſtant writers old and new.</p>
+            <p>The ordinary qualifications of an <hi>Oath</hi> are theſe, that it be taken, in <hi>Truth,</hi> in <hi>Judgement,</hi> in <hi>Righteouſneſſe,</hi> collected from <hi>Jeremiah,</hi> 4.2. <hi>Iſay</hi> 48.1.</p>
+            <p>Firſt in <hi>Truth,</hi> That is, of ſuch things as we will performe, and are fully reſolved ſeriouſly to put in <hi>practiſe.</hi>
+            </p>
+            <p>Secondly, Therefore we muſt ſwear in <hi>Judgement.</hi> We muſt well and throughly underſtand what we ſwear unto, An <hi>Oath</hi> muſt not have ambiguous expreſſions in it, for then how ſhall we ſweare in <hi>Judgement?</hi>
+            </p>
+            <p>And thirdly, we muſt ſwear in <hi>Righteouſneſſe,</hi> that is, we muſt not bind our ſelves to ought, but what is juſt and righteous, and may ſtand with the honour of God, and the good of them that fear him.</p>
+            <p>Now examine the ſeverall Articles of our <hi>Covenant,</hi> and let him that takes it, weigh the expreſſions he there meets withall, (as he ought to do before he takes an <hi>Oath</hi>) and he ſhall ſoon ſee how diſ<g ref="char:EOLhyphen"/>agreeing thoſe Articles are with theſe Rules.</p>
+            <p>Our firſt qualification is to ſwear in <hi>Truth,</hi> Then bring the fourth Article of our <hi>Nationall Covenant</hi> to this qualification, And I aske him that takes the Covenant, whether he intend to complaine of, or diſ<g ref="char:EOLhyphen"/>cover to ſome in Authority, <hi>all</hi> MALIGNANTS, and all that <hi>ſhall</hi> be ſo (Thoſe are the words of the Article.) If he purpoſe ſeriouſly to do as he there ſwears, if he be one who frequents much company, I dare aſſure him he may begin in <hi>January</hi> and hold on till <hi>December</hi> and do no other buſineſſe.</p>
+            <p>Beſides, let the practiſe of our <hi>Covenanters</hi> ſpeak for them, and I aske any man who hath ſworn this Covenant how many <hi>Malignants</hi> he hath diſcovered ſince he tooke it? Is it becauſe he never came
+<pb n="3" facs="tcp:117745:3"/>in company of ſuch, that he hath diſcovered few or none? He is one then that mewes himſelfe up in his cloſet, and avoids the ſight of the moſt.</p>
+            <p>But here it is worth the time to obſerve what hard ſhifts they ſtudy up to excuſe the breach of their <hi>Oath.</hi> One ſayes, that by <hi>Malignant is not underſtood, he that railes or ſpeakes evill of the Parlia<g ref="char:EOLhyphen"/>ment, but he that plots and contrives againſt them.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> 1. Are not words the diſcovery of mens minds?<note place="margin">
+                  <hi>1</hi> Anſw.</note> And are not words puniſhable by all lawes of God and man? Doe not all Common-Weals puniſh an offender in words? Nay even between private men, a wrong in words requires ſatisfacti<g ref="char:EOLhyphen"/>on, much more words that are againſt the publick well-being of the State.</p>
+            <p>
+               <hi>Anſwer,</hi> 2.<note place="margin">
+                  <hi>2</hi> Anſw.</note> If men are not to be diſcovered untill they plot and act, it is then like that it is too late to diſcover ſuch, and indeed contrary to the intent of a diſcovery, which is to pre<g ref="char:EOLhyphen"/>vent them that <hi>may</hi> plot and act, not to lay open them that do act, for they have diſcovered themſelves, therefore he that by his ſpeech declares himſelfe <hi>Malignant,</hi> muſt be here <hi>comprehended.</hi>
+            </p>
+            <p>A ſecond Shift uſed to evade this Article, is, of ſome that run to the firſt words of the <hi>Covenant.</hi> And ſay <hi>that this diſcovery is to be made of every one in his place and calling, but</hi> (ſay they) <hi>it is not my place and calling, therefore it concerns not me.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> 1.<note place="margin">
+                  <hi>1</hi> Anſw.</note> Either it is every mans duty to make this diſcove<g ref="char:EOLhyphen"/>ry, (who takes this <hi>Oath</hi>) or elſe no mans duty, if any mans duty, why not thine as well as another mans, ſince thou haſt ſworn to do it.</p>
+            <p>
+               <hi>Anſwer,</hi> 2. If it belong not to thy place to do it,<note place="margin">
+                  <hi>2</hi> Anſw.</note> then thou ſweareſt to an <hi>Impertinency,</hi> And ſo takeſt the name of God in vaine, and breakeſt the third Commandment. As that reverend man M. <hi>Ley</hi> of <hi>Budworth</hi> a member of the Aſſembly, hath wel ob<g ref="char:EOLhyphen"/>ſerved in his booke (againſt the <hi>Oath</hi> of the new <hi>Cannon</hi>) called <hi>Defenſive doubts.</hi> &amp;c. <hi>Printed for G. Lathum</hi> 1641. Thus we ſee how miſerably we intangle our ſelves by ſwallowing ſuch large promiſes as theſe are. But to proceed.</p>
+            <p>Secondly, in relation ſtill to this qualification of <hi>Truth</hi> in an <hi>Oath,</hi> I demand of thee who takeſt this <hi>Oath,</hi> if thou dareſt make ſo many promiſes to any friend (eſpecially thy Superiour, and
+<pb n="4" facs="tcp:117745:4"/>one with whom thou deſireſt to keep credit with) as thou mak<g ref="char:EOLhyphen"/>eſt here to the great God! Dareſt thou make ſuch a friend ſo many promiſes as will fill a ſheet of paper, and that of different matters, heterogeneall? And wilt thou do ſo with God as thou dareſt not doe with man? Is it probable that this <hi>Oath</hi> ſhould be ſworn in <hi>truth?</hi>
+            </p>
+            <p>By this one inſtance given in this one particular, in one Ar<g ref="char:EOLhyphen"/>ticle you may gueſſe what may be ſaid to the reſt, if all the Articles and the ſeverall expreſſions in them ſhould be examined by theſe three qualifications, of <hi>Truth, Judgement,</hi> and <hi>Righteouſ<g ref="char:EOLhyphen"/>neſſe.</hi> So that this tract would ſwell into a volume, if inſtan<g ref="char:EOLhyphen"/>ces ſhould be given in the ſeverall particulars, but I ſhall leave that to be done by thoſe men in their privacy who make it a matter of <hi>Conſcience,</hi> to conſider and weigh before-hand what they promiſe either to God or man, and account it a ſin to be raſh with their mouth in uttering before God matters of ſuch difficulty (if not impoſſibility) to performe, as this long promiſ<g ref="char:EOLhyphen"/>ſory <hi>Oath</hi> containes. Obſerve well that of <hi>Eccleſ.</hi> 5.2, 3, 4, 5, 6, 7.</p>
+            <p>I ſhall therefore only give ſome hints to helpe the conſcien<g ref="char:EOLhyphen"/>cious Chriſtian in bringing ſome other of the particulars in the Covenant to the Teſt, and ſo paſſe over what might be further urged in this way.</p>
+            <p>Therefore for the ſecond qualification of an <hi>Oath, viz. ſwea<g ref="char:EOLhyphen"/>ring</hi> in <hi>Judgement:</hi> Let theſe expreſſions bee examined, <hi>viz. Popery, Superſtition, Hereſie, Schiſme,, Incendiaries, evill Inſtru<g ref="char:EOLhyphen"/>ments,</hi> &amp;c. <hi>Art.</hi> 2. and 4. Hath Authority given us any definition of theſe? if not, how ſhall we ſweare in <hi>Judgement?</hi> If any man conceive theſe expreſſions ſo cleare and plaine that they need no further Declaration; he ſeems to me like him that re<g ref="char:EOLhyphen"/>ceived the mony of the Uſurer without telling it, becauſe hee took no regard of re-payment; but he which intends to per<g ref="char:EOLhyphen"/>forme, will weigh the particulars of his promiſe.</p>
+            <p>And to returne to a booke before mentioned, made by Mr. <hi>Ley</hi> (whom his writings give me cauſe to eſteem a conſcientious man). I finde there, words not ſo large as theſe, and yet made an occaſion of doubt, when we are to confirme it by <hi>Oath,</hi> as <hi>Doubt.</hi> 4. <hi>pa.</hi> 32. the word <hi>Popiſh doctrine,</hi> which I am ſure is not ſo large as the word <hi>Popery</hi> in the ſecond Article of the Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p>
+               <pb n="5" facs="tcp:117745:4"/>
+And indeed that book is a conſutation of our Covenant, be<g ref="char:EOLhyphen"/>fore the Covenant was penned, and therefore thither I ſhall di<g ref="char:EOLhyphen"/>rect the conſcientious Reader for his fuller ſatisfaction, <hi>Muiato nomine de te fabula narratur;</hi> you will finde enough in that honeſt mans book to confute all or moſt of the Articles of our <hi>Covenant.</hi>
+            </p>
+            <p>Indeed I have heard that good man hath ſince endeavoured in a later booke of his, to excuſe our Proteſtation from thoſe objections that were raiſed againſt the Canonicall oath, by ſhewing a vaſt difference between thoſe two, <hi>Reall differences, and Perſonall differences,</hi> &amp;c. And it may be he may likewiſe bee as willing to excuſe our Covenant that way, for I heard that he tooke it; but though he ſhew us a thouſand ſubſtantiall diffe<g ref="char:EOLhyphen"/>rences, if he cannot afford us thoſe three qualifications, which ought to be in every oath (though he may excuſe <hi>à tanto</hi>) I am ſure he can never free it <hi>à toto,</hi> from the juſt charge of being an unlawfull Oath.</p>
+            <p>Let me here adde one Argument which was hinted me in the large Remonſtrance of the Army of <hi>Novem.</hi> 16. 1648. at <hi>page</hi> 54. And it runs thus:</p>
+            <p n="1">1. Argument; <hi>Such an Oath as heaps together ſeverall diſtinct inte<g ref="char:EOLhyphen"/>reſts, which are, or may come to be inconſiſtent, is an unlawfull oath.</hi>
+            </p>
+            <p>But ſuch is the Nationall Covenant.</p>
+            <p>
+               <hi>Ergo,</hi> Unlawfull.</p>
+            <p>And a ſecond Argument reſulting from the matter preceding, which will run thus:</p>
+            <p n="2">2. Arg. <hi>Such an Oath as cannot be taken in judgement, is unlawfull:</hi>
+            </p>
+            <p>Such is our Covenant. <hi>Ergo,</hi> Unlawfull.</p>
+            <p n="3">3. And ſo a third Arg. for <hi>Truth.</hi> And a fourth for <hi>Righteouſ<g ref="char:EOLhyphen"/>neſſe,</hi> all which appeare plaine enough, and ſtrong enough a<g ref="char:EOLhyphen"/>gainſt our <hi>Covenant.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But here ſome may <hi>Quaere,</hi>
+               <note place="margin">Object.</note> how ſuch an Oath was paſſed (eſpecially with ſuch generall approbation of the godly party) if there were ſo much ſinne in it? How came it to paſſe that it was not look'd into, it paſſing ſo many hands, and being promoted by men ſo religious, and ſo eminent, men of ſo able parts, ſo induſtrious, &amp;c. as any the Kingdome afforded.</p>
+            <p n="1">1 <hi>Anſwer,</hi> That if it had come from,<note place="margin">
+                  <hi>1.</hi> Anſw.</note> or beene tendred by a ſuſpected party; or had thoſe promoted it who were no friends
+<pb n="6" facs="tcp:117745:5"/>to Piety (as in the former <hi>Oath, viz.</hi> that of the <hi>new Canons</hi>) it would then have been queſtioned, and every word and ſentence weighed; but comming out of the houſe of our friends, and ſpecially taking its riſe from <hi>Scotland</hi> (as was conceived) who were then lookt upon as the greateſt promoters of Piety, and the Reformation in hand, and that <hi>Church</hi> eſteemed one of the pureſt in the world; hence it took with us ſo generally.</p>
+            <p>What eſteem any thing from <hi>Scotland</hi> had with us at the be<g ref="char:EOLhyphen"/>ginning of this Parliament, may appear by the confluence of ſuch multitudes to their Commiſſioners, and to all Sermons made before them. A Sermon before them by a <hi>Scotch-man,</hi> pro<g ref="char:EOLhyphen"/>cured more Auditors, then three Congregations of the ableſt men in <hi>London,</hi> had the place been capable of entertainment.</p>
+            <p>And how likely any thing wherein the <hi>Scots</hi> appeared, was to take with the people, you may ſee by that order of Parliament of <hi>Septem.</hi> 25. 1643. wherein it was ordered that Miniſters ſhould give notice to the people that the Commiſſioners of <hi>Scotland</hi> now here did take this Covenant, implying (as it ſeems to me) that this would be an inducement to the people to take it too. This order is Printed with ſome copies of the Covenant.</p>
+            <p>And this I conceive to be one reaſon that it was ſwallowed ſo eaſily.</p>
+            <p>A ſecond reaſon might be this, It is well knowne that the ſtream ran then ſo violently, that no other conſtruction would be admitted of any mans refuſing the Covenant, but <hi>Malignancy:</hi> Now they who had ſo long groaned under <hi>Epiſcopall Tyranny</hi> ab<g ref="char:EOLhyphen"/>horred the very ſuſpicion of being a friend to that ſide, ſo ſtuck at nothing that was offered as a <hi>medium</hi> to bring on the deſired <hi>Reformation,</hi> eſpecially ſuch an <hi>Oath</hi> as promiſed to lead directly thereto.</p>
+            <p n="2">2.<note place="margin">
+                  <hi>2.</hi> Anſw.</note> 
+               <hi>Anſw.</hi> But yet ſecondly, the agreement was not ſo general as is ſuppoſed, for it ſtucke, and found oppoſition, and was diſ<g ref="char:EOLhyphen"/>puted againſt even in the Aſſembly at <hi>Weſtminſter,</hi> where it was firſt to paſſe, however the cry of thoſe that were for it was ſo loud (for reaſons before mentioned) that they who lookt into the evill of it more then the reſt did, could not be heard.</p>
+            <p>Dr. <hi>Burgeſſe</hi> was the firſt man who openly deſired and urged a Covenant to be entred into, inſomuch as he made a whole Ser<g ref="char:EOLhyphen"/>mon
+<pb n="7" facs="tcp:117745:5"/>to bring it on, preached to the Houſe of Commons, <hi>Nov.</hi> 17. 1640. upon that text, <hi>Jer.</hi> 50.5. which is to be ſeen in Print, yet when the good man came to ſee what a Covenant was ren<g ref="char:EOLhyphen"/>dred them [all beſtuft with ſelf-iſh intereſts, he was the firſt man that oppos'd it in the Aſſembly; but this being taken very hai<g ref="char:EOLhyphen"/>nouſly, he and Mr. <hi>Price</hi> another of this Aſſembly, were upon their refuſall to take this Covenant, both ſuſpended the Aſſem<g ref="char:EOLhyphen"/>bly, and in all probability had been ſuſpended their calling and Miniſtry, had they perſiſtent, ſo furiouſly was this buſineſſe driven on at that time: In the mean time they are lookt upon as hainous offenders, and their names tranſmitted into the Country in every ſcurrilous <hi>Mercury,</hi> as the onely enemies of ſo good a worke. Being in this ſtrait, they addreſſe themſelvs to the Par<g ref="char:EOLhyphen"/>liament, and make humble Petitions, but could not be heard, ſo that at laſt, they give over contending, and upon their ſub<g ref="char:EOLhyphen"/>miſſion were re-admitted to fit in the Aſſembly.</p>
+            <p>Beſides divers godly men, ſeeing the ſnare, and no way to a<g ref="char:EOLhyphen"/>void it, withdrew and obſcured themſelves for a time, for they knew no other way to avoid that odious imputation of <hi>Mulig<g ref="char:EOLhyphen"/>nants,</hi> which they muſt needs contract by refuſing, and there<g ref="char:EOLhyphen"/>fore gave place to that impetuous torrent for a time, according to that counſell, <hi>curr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ti cede Furori.</hi> They remembred there might come a time wherein they might bee uſefull to the Church of Chriſt, but for the preſent ſaw little probability of prevailing againſt that popular ſtream, which in all likelihood ſhould they have oppoſed it, would have overborne them.</p>
+            <p>And the like violence was continued for a long time after, inſo<g ref="char:EOLhyphen"/>much as no Miniſter was ſuffered to paſſe the Aſſembly, unleſſe he would take the Covenant. Nay thoſe that bare ſway of the Presbyterian party endeavoured to bring it to this, That who ever would not ſweare that <hi>caſt promiſſory Oath,</hi> ſhould have no employment in Church or Commonwealth; ſo zealot are ma<g ref="char:EOLhyphen"/>ny men, that what they have ſwallowed themſelves, ſhould with out queſtioning be received by all others.</p>
+            <p>Which rigid carriage of thoſe of the Presbyterian party, what can it be ſtiled elſe, ſave a wicked <hi>Lording</hi> it over the conſciences of their Brethren.</p>
+            <p n="1">1 I doe not charge this upon the Presbyterian Government,
+<pb n="8" facs="tcp:117745:6"/>as having cauſe to think well of it, for that the Churches of Chriſt have long thriven under that Government, in many Kingdomes. But it is to be imputed to the uncharitableneſſe of ſome in place then acting, who were more zealous in promo<g ref="char:EOLhyphen"/>ting the inventions of man, than the wayes of God, and who could be content that a godly Miniſter, though ſound and Or<g ref="char:EOLhyphen"/>thodox, ſhould yet be deprived of the uſe of his Calling (and conſequently of ſubſiſtance for himſelf and family, and ſo be ex<g ref="char:EOLhyphen"/>poſed to beg) becauſe he cannot ſubmit to ſwear a long Oath of a ſheet of paper, of another mans pening: ſuch an harſhneſſe as was not exceeded by the perſecuting Prelates.</p>
+            <p n="2">2 Neither is it intended that what is here ſpoken againſt the Covenant ſhould weaken the endevours of any who have taken the Covenant in labouring to perform what they have ſworn, that is, for ſo much of it as is feazible, and righteous, for I con<g ref="char:EOLhyphen"/>ceive them bound by it, (and ſo in a ſnare,) and God will not be mocked, <hi>Pay what thou haſt Vowed, Eccleſ.</hi> 5.4.</p>
+            <p>But the uſes which I intend of this Tract, are theſe:
+<list>
+                  <item>1 To ſhew them that have taken this Oath, their ſinfull raſh<g ref="char:EOLhyphen"/>neſſe, to bind themſelves to impoſſibilities,</item>
+                  <item>2 That thoſe of my Brethren the <hi>Ministery,</hi> who are ſo fierce in preſſing the Covenant upon all occaſions, (as Mr. <hi>Jenkin</hi> of Chriſt-Church <hi>London,</hi> and divers others) may bee remembred, firſt, to take into conſideration what a ſnare they lead men into; and ſecondly, what they have done toward Covenant-keeping themſelves?</item>
+               </list>
+            </p>
+            <p>And however they and ſome others have ſtudied up favoura<g ref="char:EOLhyphen"/>ble Interpretations of the Covenant, to ſtill the obloquie of them that diſcern the evill of it, yet I deſire them to conſider what the forementioned M. <hi>Ley</hi> ſaith in his book of <hi>DEFEN<g ref="char:EOLhyphen"/>SIVE Doubts</hi> pag. 99, 100, 101. <q>That their <hi>labour to eaſe conſcience,</hi> and good intentions therein, we take kindly: and in good will to them againe requeſt them to conſider, that a private <hi>Inter<g ref="char:EOLhyphen"/>pretation</hi> of a publick act, can give no ſatisfaction, unleſſe it be expreſly or vertually allowed by the higheſt Authority that doth impoſe it, and then it is made publicke; But why they ſhould expect ſuch an approbation of their private opinions we cannot imagine, <hi>&amp;c.</hi>
+               </q> And againe, <hi>pag:</hi> 100. <q>For private
+<pb n="9" facs="tcp:117745:6"/>men, though learned, if they take upon them the interpreta<g ref="char:EOLhyphen"/>tion of publick dictates, may be more like to light on mutual contradictions, then of the true and proper Conſtruction of the text they interpret, So did <hi>Vega</hi> and <hi>Soto, Soto</hi> and <hi>Ca<g ref="char:EOLhyphen"/>therinus, &amp;c.</hi> commenting on the Councell of <hi>Trent.</hi>
+               </q>
+            </p>
+            <p>A Third uſe of what hath been here ſaid, may be for <hi>Statiſts,</hi> That ſeek to make Religion ſubſervient to carnall policy, and to ſerve turnes for the preſent. And very plaine it is that there hath been many indeavours to make this uſe of the Covenant: Let thoſe know and conſider how irreligious their practiſe is, and hath been herein, <hi>The Bloodieſt</hi> wretch, and prophaneſt Varlet, though come out of <hi>Ireland</hi> from the ſlaughter of our Proteſtant brethren there; yet (as it is commonly reported) if he would <hi>Take</hi> the <hi>Covenant,</hi> he was then looked upon as a friend, as <hi>one</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> As if a long Oath had power to metamorphize an Aſſaſinate into a Saint.</p>
+            <p>But alas this carnall Policy always deceives them, Religion wil not ſerve Turn. This Net cat cheth none but Doves, <hi>Dat veni<g ref="char:EOLhyphen"/>am Corvis,</hi> Thoſe who ſhall ſtrike the blow and undermine them are men that will breake theſe bands, ſuch Engines as theſe (let them be as wary as they can) are eaſily turned againſt thoſe that planted them for their owne defence, as experience daily ſhowes.</p>
+            <p>Fourthly, I wiſh what hath been here ſaid, concerning <hi>Oaths</hi> may be taken into conſideration by our brethren that fear God in the Kingdome of <hi>Scotland,</hi> who not only are daily crying out OUR COVENANT! OUR COVENANT! (as they of old, <hi>Templum Domini, Templum Domini,</hi>) but either have effected, or indeavoured to have it ſworn over again. If what hath been already ſpoken out of Gods word, concerning the qualificati<g ref="char:EOLhyphen"/>ons of an <hi>Oath;</hi> and how this Oath failes therein, move them not, I hope their example ſhall not move them that feare God in this Kingdome, And the leſſe if it be true which is reported, That for the generallity of that Nation, they are often forced to follow their Lords and great men, be it right or wrong. And that if ſome of the cheife Nobility enter into a quarrell, their Tenants muſt engage with them therein. Where as in <hi>England</hi> the meaneſt Subject hath the liberty to Governe himſelfe and,
+<pb n="10" facs="tcp:117745:7"/>to make his free choice of what he conceives good and upright, and is Protected by the Common law (which is our birth-right) againſt the moſt potent. I cannot affirme that the Common<g ref="char:EOLhyphen"/>alty in <hi>Scotland</hi> doe ſtill remaine in that ſervile condition (having never been in <hi>Scotland,</hi>) but if it be ſo, their generall Engaging in this or any other courſe is the leſſe to be heeded, as not being voluntary, but forced. And for the great ones among them, the Lord give them repentance of this ſin of driv<g ref="char:EOLhyphen"/>ing the people into ſuch a ſnare as this is, which if they will not ſee, let them know, that God can bring them down, an ex<g ref="char:EOLhyphen"/>ample whereof they have in their Country man Duke <hi>Hamilton</hi> of late.</p>
+            <p>In the fiſt place this may be a remembrancer to our Parlia<g ref="char:EOLhyphen"/>ment in <hi>England.</hi> It may teach them to conſider how great a ſin they are guilty of, in leading this Nation into ſuch a ſnare, God hath humbled the major part of them, let them now that they have more leiſure, look into this ſin among others, how they have forced many of their brethren into this temptation, Either ſwear, or expoſe your ſelves to ſufferings, in your eſtates, good name, <hi>&amp;c.</hi> Let them pray that the ſame lot befall not them, which by their meanes hath befallen ſo many of their brethren and Country-men, it may pleaſe God that their timely re<g ref="char:EOLhyphen"/>pentance may prevent this or the like puniſhment. And the Lord ſanctifie this admonition to that end.</p>
+            <p>Sixtly and laſtly. Let this be a word of Exhortation to the Parliam. now ſitting, to move them to caſt away theſe wicked yokes, undo theſe heavy burdens, <hi>Iſ.</hi> 58.6. Caſt out al promiſſory Oathes, as of Judges, Conſtables, Freemen of Corporations <hi>&amp;c.</hi> They are not agreeing to theſe Rules of <hi>Truth, Righteouſ<g ref="char:EOLhyphen"/>neſſe, Judgement.</hi> And other wayes may be found to compell Officers to do their duty. Make Lawes to puniſh them if they faile, but uphold not an old Cuſtome which is found to diſa<g ref="char:EOLhyphen"/>gree with Gods word, This acting for God will be for your honour, and God will appeare for you. But if you will not lay this to heart, and what an affliction a Promiſſory Oath is to a tender Conſcience, God will in his own time find out men that will appear for him, <hi>And others ſhall have the honour of this work Heſt.</hi> 4.14.</p>
+            <p>
+               <pb n="11" facs="tcp:117745:7"/>
+There is of late a removall in part of ſome promiſſory Oathes, and a new Oath appointed by a late Act of Parliament made <hi>Sep.</hi> 5. 1649. Yet is there one clauſe in that new Oath which makes it very hard, if not impoſſible, <hi>viz.</hi> thoſe words at the end of it | <hi>You ſhall execute the Office of Mayor according to the</hi> beſt of your <hi>skill, knowledge and power,</hi> | which I ſay no man doth performe, for we do not pray, or hear, according to the beſt of our power, nor is it poſſible we ſhould alwayes be at the full and utmoſt extent of our skill and power in performance of civill duties.</p>
+            <p>
+               <hi>Chriſtian Reader,</hi>
+            </p>
+            <p>
+               <hi>TAke notice that what is here ſaid, is not the tenth part of what might be urged againſt this long Oath, ſo that which is ſpoken of the multitude of words</hi> Prov. 10.19. <hi>is truely ve<g ref="char:EOLhyphen"/>rified of this Oath, which abounds in words: For a conſcientious man may juſtly quere:</hi>
+            </p>
+            <p n="1">1 How long ſhall I be bound by this Oath!<note place="margin">Mr. <hi>Ley, pa.</hi> 86.</note> ſhall I make <hi>Median</hi> and <hi>Perſian Oaths,</hi> that can never be recalled? ſurely a wiſe man will never put his neck in ſuch a ſnare.</p>
+            <p>
+               <hi>Then ſecoadly,</hi> How prejudiciall this Oath may bee for the future, to all free Parliaments and Aſſemblies in this Kingdome, <hi>pa.</hi> 80. and the like. <hi>Which muſt be paſt over for brevities ſake, and as much more, very materiall.</hi>
+            </p>
+            <p>
+               <hi>If Mr.</hi> Ley <hi>have compiled a Book of</hi> Doubts <hi>(about an Oath not one quarter ſo long as this,) which yet is riſen to above half a quire of paper, what might be done in this which abounds in expreſsions no leſſe ambiguous?</hi>
+            </p>
+            <p>
+               <hi>But for the preſent this ſhall ſuffice, for a taſte to ſhew the evill of it, and may be a provocation to others to looke more into it: The Lord give us hearts ſo to walk with him, that we may pre<g ref="char:EOLhyphen"/>ſerve the peace of a good conſcience, and that we may neither for fear of man, or any other ſiniſter reſpect, enwrap our ſelves in ſuch ſnares as theſe are.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:117745:8"/>
+In the <hi>24th</hi> of <hi>Gen.</hi> When <hi>Abraham</hi> would ſwear his ſervant but to one particular buſineſſe, with what caution was it done? and the Servant puts the caſe what might fall out about that buſines, 1. Concerning the womans refuſing to follow him. 2. Con<g ref="char:EOLhyphen"/>cerning bringing <hi>Iſaac</hi> to the land whence they came. But in this long Covenant we ſwear to 20 particulars, and yet are not ſuf<g ref="char:EOLhyphen"/>fered to put any caſe to any one of them.</p>
+            <list>
+               <item>1 We ſwear to maintain priviledges of Parliament, but muſt not aske how many thoſe be, Nor do I hear any put forth ſuch a caſe as this, what if Parliament men will break them them<g ref="char:EOLhyphen"/>ſelves? or have the breaking of them wincked at?</item>
+               <item>2 We ſwear to indeavour to extirpate Hereſie, and that with<g ref="char:EOLhyphen"/>out reſpect of perſons; <hi>Art.</hi> 2. But never put the caſe (with <hi>A<g ref="char:EOLhyphen"/>brahams</hi> ſervant) But how if our Governours will neither aſſiſt nor countenance us in it?</item>
+               <item>3 We ſwear to diſcover ſuch as have been or <hi>ſhall</hi> be Malignants, but never put the caſe how long this diſcovery is to laſt; and for how many years it is to bind us. Or how far Malignancy is to extend.</item>
+               <item>4 We ſwear <hi>Art.</hi> 1. To indeavour the preſervation of <hi>Scotland</hi> in Doctrine and Diſcipline, but never put ſuch a caſe as this, what if the Inhabitants in <hi>Scotland</hi> ſhall thinke good to alter their Diſcipline, how far ſhall I then be obliged? <hi>Abrahams</hi> ſervant would have ſaid, <hi>Then will I be clear from this my Oath.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <date>September 17. 1649.</date>
+               <signed>Imprimatur, Theodore Jennings.</signed>
+            </closer>
+            <pb facs="tcp:117745:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
